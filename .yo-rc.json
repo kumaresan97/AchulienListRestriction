@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "list-restriction",
+    "libraryId": "0796e769-c177-4048-83c3-98f45d4f7625",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ListRestriction",
+    "solutionShortDescription": "ListRestriction description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
